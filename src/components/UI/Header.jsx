@@ -15,7 +15,10 @@ function Header() {
                   <a href="https://github.com/mrkam16"> Back to GitHub </a>
                 </li>
                 <li className="nav__list__item">
-                  <a href="https://vk.com/skodaplays"> Resume </a>
+                  <a href="https://hh.ru/resume/fe59216dff098e2b030039ed1f56685869456f">
+                    {" "}
+                    Resume{" "}
+                  </a>
                 </li>
               </ul>
             </nav>
